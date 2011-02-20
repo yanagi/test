@@ -1,3 +1,5 @@
 print "Hello Git!!"
 
-clone
+print "Hello Git Challenge!!"
+
+
